@@ -20,3 +20,4 @@ def handler(event, context):
             'end_session': 'false'
         },
     }
+#https://yandex.ru/dev/dialogs/alice/doc/quickstart-programming.html
